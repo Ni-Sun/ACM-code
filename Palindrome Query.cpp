@@ -1,3 +1,5 @@
+// Atcoder-abc331-F - Palindrome Query
+// 线段树+字符串哈希
 #include<bits/stdc++.h>
 using namespace std;
 typedef unsigned long long ll;
