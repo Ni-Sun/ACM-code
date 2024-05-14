@@ -51,7 +51,6 @@ void update(ll p, ll x, ull k)
 	pushup(p);
 }
 
-
 vector<ull> query(int p, int x, int y)
 {
 	if(x<=tr[p].l && tr[p].r<=y)
